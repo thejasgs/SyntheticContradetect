@@ -22,6 +22,7 @@ SyntheticContradetect is designed for research on contradiction detection, natur
 ```
 data/
 ├── SyntheticContradetectV1.xlsx        # Full dataset (2,581 rows)
+├──Synthetic Contradetect V1 Analysis.ipynb
 ```
 
 
