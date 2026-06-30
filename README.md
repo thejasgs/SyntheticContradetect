@@ -62,7 +62,8 @@ ContradictionType: Causal
 Subject: Baseball
 
 ## How To Cite
-
+Jamie Keene, Thejas G.S., "Human Verified AI-Generated Sentence-Pair Dataset for Contradiction Detection Across Multiple Topics and Contradiction Types", In proceedings of the 2026 IEEE 8th International Conference on Cybernetics, Cognition \& Machine Learning Applications (ICCCMLA), Germany, Oct 5-6, 2026. (Under review)
+  
 @misc{syntheticcontradetect2026,
   title         = {SyntheticContradetect},
   author        = {Keene, Jamie and Gubbi Sadashiva, Thejas},
