@@ -35,7 +35,7 @@ df = pd.read_excel(dataset_path)
 # First split into training and test sets train 90:train 10:test 
 train_data, test_data = train_test_split(df, test_size=0.1, stratify=df['Relationship'])
 
-# Then split the training data into training and validation sets 89:train 9:validate
+# Then split the training data into training and validation sets 81:train 9:validate
 train_data, val_data = train_test_split(train_data, test_size=0.1, stratify=train_data['Relationship'])
 
 # Print sizes of splits
