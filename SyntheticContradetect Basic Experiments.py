@@ -13,7 +13,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.svm import LinearSVC
 
 # Load the dataset
-dataset_path = "Sythetic Contradetect V1.xlsx" 
+dataset_path = "SytheticContradetect.xlsx" 
 df = pd.read_excel(dataset_path) 
 
 #----WORD COUNTS----
