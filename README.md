@@ -1,4 +1,4 @@
-# SyntheticContradetect
+# SyntheticContradetect Dataset
 
 ## Overview
 This is a synthetically generated contradiction detection dataset designed to cover textual sentence-pair contradictions over a wide array of subjects, sentence structures, and contradiction types. Samples are labeled with 5 main columns: Premise, Hypothesis, Relationship, ContradictionType, and Subject. 
