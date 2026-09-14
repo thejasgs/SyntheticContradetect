@@ -36,8 +36,6 @@ main/
 | Relationship                | String | Contradictory, Entailing, or Neutral                                    |
 | ContradictionType           | String | The category of contradiction for contradicting samples                 |
 | Subject                     | String | The category of content the sentences fall into                         |
-| Generated Relationship      | String | The incorrect Relationship label from automated generation              |
-| Generated ContradictionType | String | The incorrect ContradictionType label from automated generation         |
 
 
 ## Usage
