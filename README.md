@@ -21,8 +21,10 @@ SyntheticContradetect is designed for research on contradiction detection, natur
 ## Structure
 ```
 data/
-├── SyntheticContradetectV1.xlsx        # Full dataset (2,581 rows)
-├──Synthetic Contradetect V1 Analysis.ipynb
+├── SyntheticContradetect.xlsx        # Full dataset (2,581 rows)
+├──SyntheticContradetect Analysis.ipynb
+├──SyntheticContradetect Basic Experiment Code.py
+├──SyntheticContradetect Transformer Experiment Code.ipynb
 ```
 
 
@@ -43,7 +45,7 @@ data/
 ```python
 
 import pandas as pd
-df = pd.read_excel("SyntheticContradetectV1.xlsx")
+df = pd.read_excel("SyntheticContradetect.xlsx")
 print(df.head())  # printing first 4 rows
 
 ```
